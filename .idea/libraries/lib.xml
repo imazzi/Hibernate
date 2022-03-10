@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/junit-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/slf4j-simple-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectureHibernate/lib/antlr-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
